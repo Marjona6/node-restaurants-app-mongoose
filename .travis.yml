@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: EXxtE+pxTY9bHyFoFPYFWugT0foozdQbMUZdffieMDK8yIM5zLUoY3SLh7qj0sCqxWWUNkMJ3+f/v7xsv90xbFTywuczNiNyeHiFfk/RWYvHxgoxa8HYyEzuI5/PaWRm17r4aU4MZrqrCb2XQt2a+1oiQTF+iAhVO8po3H/BGRTbrfsgRmXTYsmjLJ/AUPRrRAvb0Qw9F5J8bihDj7mrH4Q2K4hmpGWwt/vijc/z3WDs7fhGxS1Q9N7n7xMjtcLovd5MOCYh6hjzpSXQNBRGQ0SgGgMYjIJ8C4iPhVknRph7mXalL0/rBz1F7BsnO+XkkJxxws1Klh19RHq0Kawe+eASfGaRMNSgVxDguSoPRtSmecmaTupUFf9kvK+SlX2xl9bnNC5eND3dSb1S0rs+4a9eGz0o6TJA9EcEpzm/MzrP9xqWSEbQRoMF+xrLB9I3Ruh2aqoId4hGJNiibfzDs2F0Kk11mKdUxuu3Q/i4BlgIYB0fwyuYWjHNJU1diuJnLFLxHJUyJqj/Lz0q5FQJrYGYr0nDKMXlAVp5D12jMXWy55KlCWgZzq0/CMro6YOg48lVP56pmG8WBez9/fDFINcZEUxmwhl6tM1zdEIMK+3hu40bJ6vLCbNWMby40aLhlIGLLl0hgavCoghBj4IVQLQ91TDRxS8wDRnuzbuZLvw=
-  app: //pure-forest-93307
+  app: pure-forest-93307
   on:
     repo: Marjona6/node-restaurants-app-mongoose
     branch: feature/with-tests
